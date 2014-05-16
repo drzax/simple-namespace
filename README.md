@@ -1,6 +1,6 @@
 # simple-namespace 
 
-[![Build Status](https://secure.travis-ci.org/elverys7d/simple-namespace.png?branch=master)](http://travis-ci.org/elverys7d/simple-namespace)
+[![Build Status](https://secure.travis-ci.org/drzax/simple-namespace.png?branch=master)](http://travis-ci.org/drzax/simple-namespace)
 
 An easy (and almost-too-simple) method for generating a 'namespace'.
 
