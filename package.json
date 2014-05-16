@@ -1,7 +1,7 @@
 {
   "name": "simple-namespace",
   "description": "An easy (and almost-too-simple) method for generating a 'namespace'.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/drzax/simple-namespace",
   "author": {
     "name": "Simon Elvery",
