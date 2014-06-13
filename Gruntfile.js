@@ -27,6 +27,12 @@ module.exports = function(grunt) {
 					prefix: '@version\\s*'
 				},
 				src: ['lib/**/*.js']
+			},
+			bower: {
+				options: {
+					prefix: '  "version": "'
+				},
+				src: ['bower.json']
 			}
 		},
 		watch: {

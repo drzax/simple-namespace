@@ -35,5 +35,7 @@
     "grunt-contrib-watch": "~0.5.3",
     "grunt-version": "^0.3.0"
   },
-  "keywords": []
+  "keywords": [
+    "namespace"
+  ]
 }
