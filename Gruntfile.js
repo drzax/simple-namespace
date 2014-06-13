@@ -38,7 +38,10 @@ module.exports = function(grunt) {
 		watch: {
 			gruntfile: {
 				files: '<%= jshint.gruntfile.src %>',
-				tasks: ['jshint:gruntfile']
+				tasks: ['jshint:gruntfile'],
+				options: {
+					reload: true
+				}
 			},
 			lib: {
 				files: '<%= jshint.lib.src %>',
